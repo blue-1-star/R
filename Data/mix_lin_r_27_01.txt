@@ -1,0 +1,1 @@
+<statsmodels.regression.mixed_linear_model.MixedLMResultsWrapper object at 0x000001FA16027990>
